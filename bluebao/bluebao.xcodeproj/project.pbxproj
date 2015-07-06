@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B699AAA1B4A567200570EEE /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AA81B4A567200570EEE /* LoginVC.m */; };
+		5B699AAB1B4A567200570EEE /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AA81B4A567200570EEE /* LoginVC.m */; };
+		5B699AAC1B4A567200570EEE /* LoginVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B699AA91B4A567200570EEE /* LoginVC.xib */; };
+		5B699AAD1B4A567200570EEE /* LoginVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B699AA91B4A567200570EEE /* LoginVC.xib */; };
+		5B699AB01B4A796B00570EEE /* AFNetworking in Resources */ = {isa = PBXBuildFile; fileRef = 5B699AAF1B4A796B00570EEE /* AFNetworking */; };
+		5B699AB11B4A796B00570EEE /* AFNetworking in Resources */ = {isa = PBXBuildFile; fileRef = 5B699AAF1B4A796B00570EEE /* AFNetworking */; };
+		5B699AB81B4A829F00570EEE /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AB51B4A829F00570EEE /* UIViewExt.m */; };
+		5B699AB91B4A829F00570EEE /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AB51B4A829F00570EEE /* UIViewExt.m */; };
+		5B699ABA1B4A829F00570EEE /* UIColor+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AB61B4A829F00570EEE /* UIColor+Color.m */; };
+		5B699ABB1B4A829F00570EEE /* UIColor+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B699AB61B4A829F00570EEE /* UIColor+Color.m */; };
 		9FAB3A971B4A1215000DCA5E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB3A961B4A1215000DCA5E /* main.m */; };
 		9FAB3A9A1B4A1216000DCA5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB3A991B4A1215000DCA5E /* AppDelegate.m */; };
 		9FAB3A9D1B4A1216000DCA5E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB3A9C1B4A1216000DCA5E /* ViewController.m */; };
@@ -14,7 +24,6 @@
 		9FAB3AA21B4A1216000DCA5E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AA11B4A1216000DCA5E /* Images.xcassets */; };
 		9FAB3AA51B4A1216000DCA5E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AA31B4A1216000DCA5E /* LaunchScreen.xib */; };
 		9FAB3AB11B4A1216000DCA5E /* bluebaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB3AB01B4A1216000DCA5E /* bluebaoTests.m */; };
-		9FAB3AC41B4A2348000DCA5E /* 文档 in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AC31B4A2348000DCA5E /* 文档 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +37,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B699AA71B4A567200570EEE /* LoginVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginVC.h; sourceTree = "<group>"; };
+		5B699AA81B4A567200570EEE /* LoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginVC.m; sourceTree = "<group>"; };
+		5B699AA91B4A567200570EEE /* LoginVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginVC.xib; sourceTree = "<group>"; };
+		5B699AAF1B4A796B00570EEE /* AFNetworking */ = {isa = PBXFileReference; lastKnownFileType = folder; path = AFNetworking; sourceTree = "<group>"; };
+		5B699AB21B4A7DF900570EEE /* bluebao-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bluebao-Prefix.pch"; sourceTree = "<group>"; };
+		5B699AB41B4A829F00570EEE /* UIColor+Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Color.h"; sourceTree = "<group>"; };
+		5B699AB51B4A829F00570EEE /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
+		5B699AB61B4A829F00570EEE /* UIColor+Color.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Color.m"; sourceTree = "<group>"; };
+		5B699AB71B4A829F00570EEE /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
 		9FAB3A911B4A1215000DCA5E /* bluebao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bluebao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FAB3A951B4A1215000DCA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FAB3A961B4A1215000DCA5E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -41,7 +59,6 @@
 		9FAB3AAA1B4A1216000DCA5E /* bluebaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bluebaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FAB3AAF1B4A1216000DCA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FAB3AB01B4A1216000DCA5E /* bluebaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bluebaoTests.m; sourceTree = "<group>"; };
-		9FAB3AC31B4A2348000DCA5E /* 文档 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "文档"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +82,43 @@
 		5B699A9C1B4A1DBA00570EEE /* otherSource */ = {
 			isa = PBXGroup;
 			children = (
+				5B699AB31B4A823600570EEE /* Category */,
+				5B699AAF1B4A796B00570EEE /* AFNetworking */,
 			);
 			name = otherSource;
+			sourceTree = "<group>";
+		};
+		5B699A9F1B4A4B7700570EEE /* 登陆注册 */ = {
+			isa = PBXGroup;
+			children = (
+				5B699AA71B4A567200570EEE /* LoginVC.h */,
+				5B699AA81B4A567200570EEE /* LoginVC.m */,
+				5B699AA91B4A567200570EEE /* LoginVC.xib */,
+			);
+			name = "登陆注册";
+			sourceTree = "<group>";
+		};
+		5B699AAE1B4A776900570EEE /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				9FAB3A981B4A1215000DCA5E /* AppDelegate.h */,
+				9FAB3A991B4A1215000DCA5E /* AppDelegate.m */,
+				9FAB3A9B1B4A1216000DCA5E /* ViewController.h */,
+				9FAB3A9C1B4A1216000DCA5E /* ViewController.m */,
+				5B699A9F1B4A4B7700570EEE /* 登陆注册 */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		5B699AB31B4A823600570EEE /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				5B699AB41B4A829F00570EEE /* UIColor+Color.h */,
+				5B699AB51B4A829F00570EEE /* UIViewExt.m */,
+				5B699AB61B4A829F00570EEE /* UIColor+Color.m */,
+				5B699AB71B4A829F00570EEE /* UIViewExt.h */,
+			);
+			name = Category;
 			sourceTree = "<group>";
 		};
 		9FAB3A881B4A1215000DCA5E = {
@@ -90,15 +142,12 @@
 		9FAB3A931B4A1215000DCA5E /* bluebao */ = {
 			isa = PBXGroup;
 			children = (
-				9FAB3A981B4A1215000DCA5E /* AppDelegate.h */,
-				9FAB3A991B4A1215000DCA5E /* AppDelegate.m */,
+				5B699A9C1B4A1DBA00570EEE /* otherSource */,
+				5B699AAE1B4A776900570EEE /* Classes */,
 				9FAB3AA11B4A1216000DCA5E /* Images.xcassets */,
 				9FAB3AA31B4A1216000DCA5E /* LaunchScreen.xib */,
 				9FAB3A9E1B4A1216000DCA5E /* Main.storyboard */,
-				5B699A9C1B4A1DBA00570EEE /* otherSource */,
 				9FAB3A941B4A1215000DCA5E /* Supporting Files */,
-				9FAB3A9B1B4A1216000DCA5E /* ViewController.h */,
-				9FAB3A9C1B4A1216000DCA5E /* ViewController.m */,
 			);
 			path = bluebao;
 			sourceTree = "<group>";
@@ -108,6 +157,7 @@
 			children = (
 				9FAB3A951B4A1215000DCA5E /* Info.plist */,
 				9FAB3A961B4A1215000DCA5E /* main.m */,
+				5B699AB21B4A7DF900570EEE /* bluebao-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -209,9 +259,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FAB3AC41B4A2348000DCA5E /* 文档 in Resources */,
 				9FAB3AA01B4A1216000DCA5E /* Main.storyboard in Resources */,
 				9FAB3AA51B4A1216000DCA5E /* LaunchScreen.xib in Resources */,
+				5B699AAC1B4A567200570EEE /* LoginVC.xib in Resources */,
+				5B699AB01B4A796B00570EEE /* AFNetworking in Resources */,
 				9FAB3AA21B4A1216000DCA5E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,6 +271,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B699AAD1B4A567200570EEE /* LoginVC.xib in Resources */,
+				5B699AB11B4A796B00570EEE /* AFNetworking in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -231,7 +284,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FAB3A9D1B4A1216000DCA5E /* ViewController.m in Sources */,
+				5B699ABA1B4A829F00570EEE /* UIColor+Color.m in Sources */,
 				9FAB3A9A1B4A1216000DCA5E /* AppDelegate.m in Sources */,
+				5B699AB81B4A829F00570EEE /* UIViewExt.m in Sources */,
+				5B699AAA1B4A567200570EEE /* LoginVC.m in Sources */,
 				9FAB3A971B4A1215000DCA5E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +296,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B699AAB1B4A567200570EEE /* LoginVC.m in Sources */,
+				5B699ABB1B4A829F00570EEE /* UIColor+Color.m in Sources */,
+				5B699AB91B4A829F00570EEE /* UIViewExt.m in Sources */,
 				9FAB3AB11B4A1216000DCA5E /* bluebaoTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -358,10 +417,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/bluebao/bluebao-Prefix.pch";
 				INFOPLIST_FILE = bluebao/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -369,10 +432,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/bluebao/bluebao-Prefix.pch";
 				INFOPLIST_FILE = bluebao/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
