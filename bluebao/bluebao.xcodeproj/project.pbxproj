@@ -96,15 +96,15 @@
 		9FAB3A931B4A1215000DCA5E /* bluebao */ = {
 			isa = PBXGroup;
 			children = (
-				5B699A9C1B4A1DBA00570EEE /* otherSource */,
 				9FAB3A981B4A1215000DCA5E /* AppDelegate.h */,
 				9FAB3A991B4A1215000DCA5E /* AppDelegate.m */,
-				9FAB3A9B1B4A1216000DCA5E /* ViewController.h */,
-				9FAB3A9C1B4A1216000DCA5E /* ViewController.m */,
-				9FAB3A9E1B4A1216000DCA5E /* Main.storyboard */,
 				9FAB3AA11B4A1216000DCA5E /* Images.xcassets */,
 				9FAB3AA31B4A1216000DCA5E /* LaunchScreen.xib */,
+				9FAB3A9E1B4A1216000DCA5E /* Main.storyboard */,
+				5B699A9C1B4A1DBA00570EEE /* otherSource */,
 				9FAB3A941B4A1215000DCA5E /* Supporting Files */,
+				9FAB3A9B1B4A1216000DCA5E /* ViewController.h */,
+				9FAB3A9C1B4A1216000DCA5E /* ViewController.m */,
 			);
 			path = bluebao;
 			sourceTree = "<group>";
@@ -133,17 +133,6 @@
 				9FAB3AAF1B4A1216000DCA5E /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		9FAB3ABA1B4A1C6D000DCA5E /* 文档 */ = {
-			isa = PBXGroup;
-			children = (
-				9FAB3ABB1B4A1C8C000DCA5E /* 1.psd */,
-				9FAB3ABC1B4A1C8C000DCA5E /* 2.jpg */,
-				9FAB3ABD1B4A1C8C000DCA5E /* 蓝堡APP建议(1).doc */,
-				9FAB3ABE1B4A1C8C000DCA5E /* 设计稿.zip */,
-			);
-			name = "文档";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
