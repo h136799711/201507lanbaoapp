@@ -14,10 +14,7 @@
 		9FAB3AA21B4A1216000DCA5E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AA11B4A1216000DCA5E /* Images.xcassets */; };
 		9FAB3AA51B4A1216000DCA5E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AA31B4A1216000DCA5E /* LaunchScreen.xib */; };
 		9FAB3AB11B4A1216000DCA5E /* bluebaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB3AB01B4A1216000DCA5E /* bluebaoTests.m */; };
-		9FAB3ABF1B4A1C8C000DCA5E /* 1.psd in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3ABB1B4A1C8C000DCA5E /* 1.psd */; };
-		9FAB3AC01B4A1C8C000DCA5E /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3ABC1B4A1C8C000DCA5E /* 2.jpg */; };
-		9FAB3AC11B4A1C8C000DCA5E /* 蓝堡APP建议(1).doc in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3ABD1B4A1C8C000DCA5E /* 蓝堡APP建议(1).doc */; };
-		9FAB3AC21B4A1C8C000DCA5E /* 设计稿.zip in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3ABE1B4A1C8C000DCA5E /* 设计稿.zip */; };
+		9FAB3AC41B4A2348000DCA5E /* 文档 in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB3AC31B4A2348000DCA5E /* 文档 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,10 +41,7 @@
 		9FAB3AAA1B4A1216000DCA5E /* bluebaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bluebaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FAB3AAF1B4A1216000DCA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FAB3AB01B4A1216000DCA5E /* bluebaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bluebaoTests.m; sourceTree = "<group>"; };
-		9FAB3ABB1B4A1C8C000DCA5E /* 1.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.psd; sourceTree = "<group>"; };
-		9FAB3ABC1B4A1C8C000DCA5E /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
-		9FAB3ABD1B4A1C8C000DCA5E /* 蓝堡APP建议(1).doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "蓝堡APP建议(1).doc"; sourceTree = "<group>"; };
-		9FAB3ABE1B4A1C8C000DCA5E /* 设计稿.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "设计稿.zip"; sourceTree = "<group>"; };
+		9FAB3AC31B4A2348000DCA5E /* 文档 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "文档"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,13 +209,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FAB3AC21B4A1C8C000DCA5E /* 设计稿.zip in Resources */,
+				9FAB3AC41B4A2348000DCA5E /* 文档 in Resources */,
 				9FAB3AA01B4A1216000DCA5E /* Main.storyboard in Resources */,
-				9FAB3AC11B4A1C8C000DCA5E /* 蓝堡APP建议(1).doc in Resources */,
 				9FAB3AA51B4A1216000DCA5E /* LaunchScreen.xib in Resources */,
-				9FAB3AC01B4A1C8C000DCA5E /* 2.jpg in Resources */,
 				9FAB3AA21B4A1216000DCA5E /* Images.xcassets in Resources */,
-				9FAB3ABF1B4A1C8C000DCA5E /* 1.psd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
