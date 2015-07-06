@@ -60,6 +60,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5B699A9C1B4A1DBA00570EEE /* otherSource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = otherSource;
+			sourceTree = "<group>";
+		};
 		9FAB3A881B4A1215000DCA5E = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +88,7 @@
 		9FAB3A931B4A1215000DCA5E /* bluebao */ = {
 			isa = PBXGroup;
 			children = (
+				5B699A9C1B4A1DBA00570EEE /* otherSource */,
 				9FAB3A981B4A1215000DCA5E /* AppDelegate.h */,
 				9FAB3A991B4A1215000DCA5E /* AppDelegate.m */,
 				9FAB3A9B1B4A1216000DCA5E /* ViewController.h */,
